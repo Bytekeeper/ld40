@@ -1,0 +1,4 @@
+rpgportraits.png; CC0; https://opengameart.org/content/rpg-portraits
+dungeon_tiles.png; CC0; https://opengameart.org/content/dungeon-tileset
+pixlthulu; CC4; https://github.com/czyzby/gdx-skins/tree/master/pixthulhu
+dcssf; CC0; https://opengameart.org/content/dungeon-crawl-32x32-tiles
